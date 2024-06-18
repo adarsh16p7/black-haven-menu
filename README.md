@@ -26,7 +26,7 @@ To run the application locally:
 2. Navigate to the project directory:
 
    ```sh
-   cd menu-display-app
+   cd cafe-menu-app
    ```
 
 3. Open **index.html** in your web browser.
